@@ -1,0 +1,17 @@
+C:\C샵프로그래밍\_19강_GDI\bin\Debug\net6.0-windows\_19강_GDI.exe
+C:\C샵프로그래밍\_19강_GDI\bin\Debug\net6.0-windows\_19강_GDI.deps.json
+C:\C샵프로그래밍\_19강_GDI\bin\Debug\net6.0-windows\_19강_GDI.runtimeconfig.json
+C:\C샵프로그래밍\_19강_GDI\bin\Debug\net6.0-windows\_19강_GDI.dll
+C:\C샵프로그래밍\_19강_GDI\bin\Debug\net6.0-windows\_19강_GDI.pdb
+C:\C샵프로그래밍\_19강_GDI\obj\Debug\net6.0-windows\_19강_GDI.csproj.AssemblyReference.cache
+C:\C샵프로그래밍\_19강_GDI\obj\Debug\net6.0-windows\_19강_GDI.Form1.resources
+C:\C샵프로그래밍\_19강_GDI\obj\Debug\net6.0-windows\_19강_GDI.csproj.GenerateResource.cache
+C:\C샵프로그래밍\_19강_GDI\obj\Debug\net6.0-windows\_19강_GDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\C샵프로그래밍\_19강_GDI\obj\Debug\net6.0-windows\_19강_GDI.AssemblyInfoInputs.cache
+C:\C샵프로그래밍\_19강_GDI\obj\Debug\net6.0-windows\_19강_GDI.AssemblyInfo.cs
+C:\C샵프로그래밍\_19강_GDI\obj\Debug\net6.0-windows\_19강_GDI.csproj.CoreCompileInputs.cache
+C:\C샵프로그래밍\_19강_GDI\obj\Debug\net6.0-windows\_19강_GDI.dll
+C:\C샵프로그래밍\_19강_GDI\obj\Debug\net6.0-windows\refint\_19강_GDI.dll
+C:\C샵프로그래밍\_19강_GDI\obj\Debug\net6.0-windows\_19강_GDI.pdb
+C:\C샵프로그래밍\_19강_GDI\obj\Debug\net6.0-windows\_19강_GDI.genruntimeconfig.cache
+C:\C샵프로그래밍\_19강_GDI\obj\Debug\net6.0-windows\ref\_19강_GDI.dll

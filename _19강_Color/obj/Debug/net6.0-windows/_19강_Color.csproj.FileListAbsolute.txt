@@ -1,0 +1,17 @@
+C:\C샵프로그래밍\_19강_Color\bin\Debug\net6.0-windows\_19강_Color.exe
+C:\C샵프로그래밍\_19강_Color\bin\Debug\net6.0-windows\_19강_Color.deps.json
+C:\C샵프로그래밍\_19강_Color\bin\Debug\net6.0-windows\_19강_Color.runtimeconfig.json
+C:\C샵프로그래밍\_19강_Color\bin\Debug\net6.0-windows\_19강_Color.dll
+C:\C샵프로그래밍\_19강_Color\bin\Debug\net6.0-windows\_19강_Color.pdb
+C:\C샵프로그래밍\_19강_Color\obj\Debug\net6.0-windows\_19강_Color.csproj.AssemblyReference.cache
+C:\C샵프로그래밍\_19강_Color\obj\Debug\net6.0-windows\_19강_Color.Form1.resources
+C:\C샵프로그래밍\_19강_Color\obj\Debug\net6.0-windows\_19강_Color.csproj.GenerateResource.cache
+C:\C샵프로그래밍\_19강_Color\obj\Debug\net6.0-windows\_19강_Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\C샵프로그래밍\_19강_Color\obj\Debug\net6.0-windows\_19강_Color.AssemblyInfoInputs.cache
+C:\C샵프로그래밍\_19강_Color\obj\Debug\net6.0-windows\_19강_Color.AssemblyInfo.cs
+C:\C샵프로그래밍\_19강_Color\obj\Debug\net6.0-windows\_19강_Color.csproj.CoreCompileInputs.cache
+C:\C샵프로그래밍\_19강_Color\obj\Debug\net6.0-windows\_19강_Color.dll
+C:\C샵프로그래밍\_19강_Color\obj\Debug\net6.0-windows\refint\_19강_Color.dll
+C:\C샵프로그래밍\_19강_Color\obj\Debug\net6.0-windows\_19강_Color.pdb
+C:\C샵프로그래밍\_19강_Color\obj\Debug\net6.0-windows\_19강_Color.genruntimeconfig.cache
+C:\C샵프로그래밍\_19강_Color\obj\Debug\net6.0-windows\ref\_19강_Color.dll
