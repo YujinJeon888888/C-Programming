@@ -1,0 +1,17 @@
+C:\C샵프로그래밍\_25강_스크롤\bin\Debug\net6.0-windows\_25강_스크롤.exe
+C:\C샵프로그래밍\_25강_스크롤\bin\Debug\net6.0-windows\_25강_스크롤.deps.json
+C:\C샵프로그래밍\_25강_스크롤\bin\Debug\net6.0-windows\_25강_스크롤.runtimeconfig.json
+C:\C샵프로그래밍\_25강_스크롤\bin\Debug\net6.0-windows\_25강_스크롤.dll
+C:\C샵프로그래밍\_25강_스크롤\bin\Debug\net6.0-windows\_25강_스크롤.pdb
+C:\C샵프로그래밍\_25강_스크롤\obj\Debug\net6.0-windows\_25강_스크롤.csproj.AssemblyReference.cache
+C:\C샵프로그래밍\_25강_스크롤\obj\Debug\net6.0-windows\_25강_스크롤.Form1.resources
+C:\C샵프로그래밍\_25강_스크롤\obj\Debug\net6.0-windows\_25강_스크롤.csproj.GenerateResource.cache
+C:\C샵프로그래밍\_25강_스크롤\obj\Debug\net6.0-windows\_25강_스크롤.GeneratedMSBuildEditorConfig.editorconfig
+C:\C샵프로그래밍\_25강_스크롤\obj\Debug\net6.0-windows\_25강_스크롤.AssemblyInfoInputs.cache
+C:\C샵프로그래밍\_25강_스크롤\obj\Debug\net6.0-windows\_25강_스크롤.AssemblyInfo.cs
+C:\C샵프로그래밍\_25강_스크롤\obj\Debug\net6.0-windows\_25강_스크롤.csproj.CoreCompileInputs.cache
+C:\C샵프로그래밍\_25강_스크롤\obj\Debug\net6.0-windows\_25강_스크롤.dll
+C:\C샵프로그래밍\_25강_스크롤\obj\Debug\net6.0-windows\refint\_25강_스크롤.dll
+C:\C샵프로그래밍\_25강_스크롤\obj\Debug\net6.0-windows\_25강_스크롤.pdb
+C:\C샵프로그래밍\_25강_스크롤\obj\Debug\net6.0-windows\_25강_스크롤.genruntimeconfig.cache
+C:\C샵프로그래밍\_25강_스크롤\obj\Debug\net6.0-windows\ref\_25강_스크롤.dll
