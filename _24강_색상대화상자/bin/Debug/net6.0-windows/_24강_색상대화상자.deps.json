@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_24강_색상대화상자/1.0.0": {
+        "runtime": {
+          "_24강_색상대화상자.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_24강_색상대화상자/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
