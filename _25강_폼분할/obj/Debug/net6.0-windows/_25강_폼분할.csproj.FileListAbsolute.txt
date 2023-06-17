@@ -1,0 +1,17 @@
+C:\C샵프로그래밍\_25강_폼분할\bin\Debug\net6.0-windows\_25강_폼분할.exe
+C:\C샵프로그래밍\_25강_폼분할\bin\Debug\net6.0-windows\_25강_폼분할.deps.json
+C:\C샵프로그래밍\_25강_폼분할\bin\Debug\net6.0-windows\_25강_폼분할.runtimeconfig.json
+C:\C샵프로그래밍\_25강_폼분할\bin\Debug\net6.0-windows\_25강_폼분할.dll
+C:\C샵프로그래밍\_25강_폼분할\bin\Debug\net6.0-windows\_25강_폼분할.pdb
+C:\C샵프로그래밍\_25강_폼분할\obj\Debug\net6.0-windows\_25강_폼분할.csproj.AssemblyReference.cache
+C:\C샵프로그래밍\_25강_폼분할\obj\Debug\net6.0-windows\_25강_폼분할.Form1.resources
+C:\C샵프로그래밍\_25강_폼분할\obj\Debug\net6.0-windows\_25강_폼분할.csproj.GenerateResource.cache
+C:\C샵프로그래밍\_25강_폼분할\obj\Debug\net6.0-windows\_25강_폼분할.GeneratedMSBuildEditorConfig.editorconfig
+C:\C샵프로그래밍\_25강_폼분할\obj\Debug\net6.0-windows\_25강_폼분할.AssemblyInfoInputs.cache
+C:\C샵프로그래밍\_25강_폼분할\obj\Debug\net6.0-windows\_25강_폼분할.AssemblyInfo.cs
+C:\C샵프로그래밍\_25강_폼분할\obj\Debug\net6.0-windows\_25강_폼분할.csproj.CoreCompileInputs.cache
+C:\C샵프로그래밍\_25강_폼분할\obj\Debug\net6.0-windows\_25강_폼분할.dll
+C:\C샵프로그래밍\_25강_폼분할\obj\Debug\net6.0-windows\refint\_25강_폼분할.dll
+C:\C샵프로그래밍\_25강_폼분할\obj\Debug\net6.0-windows\_25강_폼분할.pdb
+C:\C샵프로그래밍\_25강_폼분할\obj\Debug\net6.0-windows\_25강_폼분할.genruntimeconfig.cache
+C:\C샵프로그래밍\_25강_폼분할\obj\Debug\net6.0-windows\ref\_25강_폼분할.dll

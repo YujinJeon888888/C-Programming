@@ -1,0 +1,17 @@
+C:\C샵프로그래밍\C샵프로그래밍\bin\Debug\net6.0-windows\키보드.exe
+C:\C샵프로그래밍\C샵프로그래밍\bin\Debug\net6.0-windows\키보드.deps.json
+C:\C샵프로그래밍\C샵프로그래밍\bin\Debug\net6.0-windows\키보드.runtimeconfig.json
+C:\C샵프로그래밍\C샵프로그래밍\bin\Debug\net6.0-windows\키보드.dll
+C:\C샵프로그래밍\C샵프로그래밍\bin\Debug\net6.0-windows\키보드.pdb
+C:\C샵프로그래밍\C샵프로그래밍\obj\Debug\net6.0-windows\키보드.csproj.AssemblyReference.cache
+C:\C샵프로그래밍\C샵프로그래밍\obj\Debug\net6.0-windows\C샵프로그래밍.Form1.resources
+C:\C샵프로그래밍\C샵프로그래밍\obj\Debug\net6.0-windows\키보드.csproj.GenerateResource.cache
+C:\C샵프로그래밍\C샵프로그래밍\obj\Debug\net6.0-windows\키보드.GeneratedMSBuildEditorConfig.editorconfig
+C:\C샵프로그래밍\C샵프로그래밍\obj\Debug\net6.0-windows\키보드.AssemblyInfoInputs.cache
+C:\C샵프로그래밍\C샵프로그래밍\obj\Debug\net6.0-windows\키보드.AssemblyInfo.cs
+C:\C샵프로그래밍\C샵프로그래밍\obj\Debug\net6.0-windows\키보드.csproj.CoreCompileInputs.cache
+C:\C샵프로그래밍\C샵프로그래밍\obj\Debug\net6.0-windows\키보드.dll
+C:\C샵프로그래밍\C샵프로그래밍\obj\Debug\net6.0-windows\refint\키보드.dll
+C:\C샵프로그래밍\C샵프로그래밍\obj\Debug\net6.0-windows\키보드.pdb
+C:\C샵프로그래밍\C샵프로그래밍\obj\Debug\net6.0-windows\키보드.genruntimeconfig.cache
+C:\C샵프로그래밍\C샵프로그래밍\obj\Debug\net6.0-windows\ref\키보드.dll
