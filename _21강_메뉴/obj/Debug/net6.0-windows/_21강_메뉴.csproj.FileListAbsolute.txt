@@ -1,0 +1,17 @@
+C:\C샵프로그래밍\_21강_메뉴\bin\Debug\net6.0-windows\_21강_메뉴.exe
+C:\C샵프로그래밍\_21강_메뉴\bin\Debug\net6.0-windows\_21강_메뉴.deps.json
+C:\C샵프로그래밍\_21강_메뉴\bin\Debug\net6.0-windows\_21강_메뉴.runtimeconfig.json
+C:\C샵프로그래밍\_21강_메뉴\bin\Debug\net6.0-windows\_21강_메뉴.dll
+C:\C샵프로그래밍\_21강_메뉴\bin\Debug\net6.0-windows\_21강_메뉴.pdb
+C:\C샵프로그래밍\_21강_메뉴\obj\Debug\net6.0-windows\_21강_메뉴.csproj.AssemblyReference.cache
+C:\C샵프로그래밍\_21강_메뉴\obj\Debug\net6.0-windows\_21강_메뉴.Form1.resources
+C:\C샵프로그래밍\_21강_메뉴\obj\Debug\net6.0-windows\_21강_메뉴.csproj.GenerateResource.cache
+C:\C샵프로그래밍\_21강_메뉴\obj\Debug\net6.0-windows\_21강_메뉴.GeneratedMSBuildEditorConfig.editorconfig
+C:\C샵프로그래밍\_21강_메뉴\obj\Debug\net6.0-windows\_21강_메뉴.AssemblyInfoInputs.cache
+C:\C샵프로그래밍\_21강_메뉴\obj\Debug\net6.0-windows\_21강_메뉴.AssemblyInfo.cs
+C:\C샵프로그래밍\_21강_메뉴\obj\Debug\net6.0-windows\_21강_메뉴.csproj.CoreCompileInputs.cache
+C:\C샵프로그래밍\_21강_메뉴\obj\Debug\net6.0-windows\_21강_메뉴.dll
+C:\C샵프로그래밍\_21강_메뉴\obj\Debug\net6.0-windows\refint\_21강_메뉴.dll
+C:\C샵프로그래밍\_21강_메뉴\obj\Debug\net6.0-windows\_21강_메뉴.pdb
+C:\C샵프로그래밍\_21강_메뉴\obj\Debug\net6.0-windows\_21강_메뉴.genruntimeconfig.cache
+C:\C샵프로그래밍\_21강_메뉴\obj\Debug\net6.0-windows\ref\_21강_메뉴.dll
