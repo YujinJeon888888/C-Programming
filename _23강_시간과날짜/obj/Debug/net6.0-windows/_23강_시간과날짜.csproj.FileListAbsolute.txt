@@ -1,0 +1,17 @@
+C:\C샵프로그래밍\_23강_시간과날짜\bin\Debug\net6.0-windows\_23강_시간과날짜.exe
+C:\C샵프로그래밍\_23강_시간과날짜\bin\Debug\net6.0-windows\_23강_시간과날짜.deps.json
+C:\C샵프로그래밍\_23강_시간과날짜\bin\Debug\net6.0-windows\_23강_시간과날짜.runtimeconfig.json
+C:\C샵프로그래밍\_23강_시간과날짜\bin\Debug\net6.0-windows\_23강_시간과날짜.dll
+C:\C샵프로그래밍\_23강_시간과날짜\bin\Debug\net6.0-windows\_23강_시간과날짜.pdb
+C:\C샵프로그래밍\_23강_시간과날짜\obj\Debug\net6.0-windows\_23강_시간과날짜.csproj.AssemblyReference.cache
+C:\C샵프로그래밍\_23강_시간과날짜\obj\Debug\net6.0-windows\_23강_시간과날짜.Form1.resources
+C:\C샵프로그래밍\_23강_시간과날짜\obj\Debug\net6.0-windows\_23강_시간과날짜.csproj.GenerateResource.cache
+C:\C샵프로그래밍\_23강_시간과날짜\obj\Debug\net6.0-windows\_23강_시간과날짜.GeneratedMSBuildEditorConfig.editorconfig
+C:\C샵프로그래밍\_23강_시간과날짜\obj\Debug\net6.0-windows\_23강_시간과날짜.AssemblyInfoInputs.cache
+C:\C샵프로그래밍\_23강_시간과날짜\obj\Debug\net6.0-windows\_23강_시간과날짜.AssemblyInfo.cs
+C:\C샵프로그래밍\_23강_시간과날짜\obj\Debug\net6.0-windows\_23강_시간과날짜.csproj.CoreCompileInputs.cache
+C:\C샵프로그래밍\_23강_시간과날짜\obj\Debug\net6.0-windows\_23강_시간과날짜.dll
+C:\C샵프로그래밍\_23강_시간과날짜\obj\Debug\net6.0-windows\refint\_23강_시간과날짜.dll
+C:\C샵프로그래밍\_23강_시간과날짜\obj\Debug\net6.0-windows\_23강_시간과날짜.pdb
+C:\C샵프로그래밍\_23강_시간과날짜\obj\Debug\net6.0-windows\_23강_시간과날짜.genruntimeconfig.cache
+C:\C샵프로그래밍\_23강_시간과날짜\obj\Debug\net6.0-windows\ref\_23강_시간과날짜.dll
