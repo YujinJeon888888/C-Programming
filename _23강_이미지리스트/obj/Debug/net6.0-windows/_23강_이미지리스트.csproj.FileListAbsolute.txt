@@ -1,0 +1,17 @@
+C:\C샵프로그래밍\_23강_이미지리스트\bin\Debug\net6.0-windows\_23강_이미지리스트.exe
+C:\C샵프로그래밍\_23강_이미지리스트\bin\Debug\net6.0-windows\_23강_이미지리스트.deps.json
+C:\C샵프로그래밍\_23강_이미지리스트\bin\Debug\net6.0-windows\_23강_이미지리스트.runtimeconfig.json
+C:\C샵프로그래밍\_23강_이미지리스트\bin\Debug\net6.0-windows\_23강_이미지리스트.dll
+C:\C샵프로그래밍\_23강_이미지리스트\bin\Debug\net6.0-windows\_23강_이미지리스트.pdb
+C:\C샵프로그래밍\_23강_이미지리스트\obj\Debug\net6.0-windows\_23강_이미지리스트.csproj.AssemblyReference.cache
+C:\C샵프로그래밍\_23강_이미지리스트\obj\Debug\net6.0-windows\_23강_이미지리스트.Form1.resources
+C:\C샵프로그래밍\_23강_이미지리스트\obj\Debug\net6.0-windows\_23강_이미지리스트.csproj.GenerateResource.cache
+C:\C샵프로그래밍\_23강_이미지리스트\obj\Debug\net6.0-windows\_23강_이미지리스트.GeneratedMSBuildEditorConfig.editorconfig
+C:\C샵프로그래밍\_23강_이미지리스트\obj\Debug\net6.0-windows\_23강_이미지리스트.AssemblyInfoInputs.cache
+C:\C샵프로그래밍\_23강_이미지리스트\obj\Debug\net6.0-windows\_23강_이미지리스트.AssemblyInfo.cs
+C:\C샵프로그래밍\_23강_이미지리스트\obj\Debug\net6.0-windows\_23강_이미지리스트.csproj.CoreCompileInputs.cache
+C:\C샵프로그래밍\_23강_이미지리스트\obj\Debug\net6.0-windows\_23강_이미지리스트.dll
+C:\C샵프로그래밍\_23강_이미지리스트\obj\Debug\net6.0-windows\refint\_23강_이미지리스트.dll
+C:\C샵프로그래밍\_23강_이미지리스트\obj\Debug\net6.0-windows\_23강_이미지리스트.pdb
+C:\C샵프로그래밍\_23강_이미지리스트\obj\Debug\net6.0-windows\_23강_이미지리스트.genruntimeconfig.cache
+C:\C샵프로그래밍\_23강_이미지리스트\obj\Debug\net6.0-windows\ref\_23강_이미지리스트.dll
