@@ -1,0 +1,17 @@
+C:\C샵프로그래밍\_20강_폼과타이머\bin\Debug\net6.0-windows\_20강_폼과타이머.exe
+C:\C샵프로그래밍\_20강_폼과타이머\bin\Debug\net6.0-windows\_20강_폼과타이머.deps.json
+C:\C샵프로그래밍\_20강_폼과타이머\bin\Debug\net6.0-windows\_20강_폼과타이머.runtimeconfig.json
+C:\C샵프로그래밍\_20강_폼과타이머\bin\Debug\net6.0-windows\_20강_폼과타이머.dll
+C:\C샵프로그래밍\_20강_폼과타이머\bin\Debug\net6.0-windows\_20강_폼과타이머.pdb
+C:\C샵프로그래밍\_20강_폼과타이머\obj\Debug\net6.0-windows\_20강_폼과타이머.csproj.AssemblyReference.cache
+C:\C샵프로그래밍\_20강_폼과타이머\obj\Debug\net6.0-windows\_20강_폼과타이머.Form1.resources
+C:\C샵프로그래밍\_20강_폼과타이머\obj\Debug\net6.0-windows\_20강_폼과타이머.csproj.GenerateResource.cache
+C:\C샵프로그래밍\_20강_폼과타이머\obj\Debug\net6.0-windows\_20강_폼과타이머.GeneratedMSBuildEditorConfig.editorconfig
+C:\C샵프로그래밍\_20강_폼과타이머\obj\Debug\net6.0-windows\_20강_폼과타이머.AssemblyInfoInputs.cache
+C:\C샵프로그래밍\_20강_폼과타이머\obj\Debug\net6.0-windows\_20강_폼과타이머.AssemblyInfo.cs
+C:\C샵프로그래밍\_20강_폼과타이머\obj\Debug\net6.0-windows\_20강_폼과타이머.csproj.CoreCompileInputs.cache
+C:\C샵프로그래밍\_20강_폼과타이머\obj\Debug\net6.0-windows\_20강_폼과타이머.dll
+C:\C샵프로그래밍\_20강_폼과타이머\obj\Debug\net6.0-windows\refint\_20강_폼과타이머.dll
+C:\C샵프로그래밍\_20강_폼과타이머\obj\Debug\net6.0-windows\_20강_폼과타이머.pdb
+C:\C샵프로그래밍\_20강_폼과타이머\obj\Debug\net6.0-windows\_20강_폼과타이머.genruntimeconfig.cache
+C:\C샵프로그래밍\_20강_폼과타이머\obj\Debug\net6.0-windows\ref\_20강_폼과타이머.dll
