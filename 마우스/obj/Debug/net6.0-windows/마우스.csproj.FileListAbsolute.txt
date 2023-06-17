@@ -1,0 +1,17 @@
+C:\C샵프로그래밍\마우스\obj\Debug\net6.0-windows\마우스.csproj.AssemblyReference.cache
+C:\C샵프로그래밍\마우스\obj\Debug\net6.0-windows\마우스.Form1.resources
+C:\C샵프로그래밍\마우스\obj\Debug\net6.0-windows\마우스.csproj.GenerateResource.cache
+C:\C샵프로그래밍\마우스\obj\Debug\net6.0-windows\마우스.GeneratedMSBuildEditorConfig.editorconfig
+C:\C샵프로그래밍\마우스\obj\Debug\net6.0-windows\마우스.AssemblyInfoInputs.cache
+C:\C샵프로그래밍\마우스\obj\Debug\net6.0-windows\마우스.AssemblyInfo.cs
+C:\C샵프로그래밍\마우스\obj\Debug\net6.0-windows\마우스.csproj.CoreCompileInputs.cache
+C:\C샵프로그래밍\마우스\bin\Debug\net6.0-windows\마우스.exe
+C:\C샵프로그래밍\마우스\bin\Debug\net6.0-windows\마우스.deps.json
+C:\C샵프로그래밍\마우스\bin\Debug\net6.0-windows\마우스.runtimeconfig.json
+C:\C샵프로그래밍\마우스\bin\Debug\net6.0-windows\마우스.dll
+C:\C샵프로그래밍\마우스\bin\Debug\net6.0-windows\마우스.pdb
+C:\C샵프로그래밍\마우스\obj\Debug\net6.0-windows\마우스.dll
+C:\C샵프로그래밍\마우스\obj\Debug\net6.0-windows\refint\마우스.dll
+C:\C샵프로그래밍\마우스\obj\Debug\net6.0-windows\마우스.pdb
+C:\C샵프로그래밍\마우스\obj\Debug\net6.0-windows\마우스.genruntimeconfig.cache
+C:\C샵프로그래밍\마우스\obj\Debug\net6.0-windows\ref\마우스.dll
