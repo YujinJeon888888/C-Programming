@@ -1,0 +1,17 @@
+C:\C샵프로그래밍\_22강_트랙바\bin\Debug\net6.0-windows\_22강_트랙바.exe
+C:\C샵프로그래밍\_22강_트랙바\bin\Debug\net6.0-windows\_22강_트랙바.deps.json
+C:\C샵프로그래밍\_22강_트랙바\bin\Debug\net6.0-windows\_22강_트랙바.runtimeconfig.json
+C:\C샵프로그래밍\_22강_트랙바\bin\Debug\net6.0-windows\_22강_트랙바.dll
+C:\C샵프로그래밍\_22강_트랙바\bin\Debug\net6.0-windows\_22강_트랙바.pdb
+C:\C샵프로그래밍\_22강_트랙바\obj\Debug\net6.0-windows\_22강_트랙바.csproj.AssemblyReference.cache
+C:\C샵프로그래밍\_22강_트랙바\obj\Debug\net6.0-windows\_22강_트랙바.Form1.resources
+C:\C샵프로그래밍\_22강_트랙바\obj\Debug\net6.0-windows\_22강_트랙바.csproj.GenerateResource.cache
+C:\C샵프로그래밍\_22강_트랙바\obj\Debug\net6.0-windows\_22강_트랙바.GeneratedMSBuildEditorConfig.editorconfig
+C:\C샵프로그래밍\_22강_트랙바\obj\Debug\net6.0-windows\_22강_트랙바.AssemblyInfoInputs.cache
+C:\C샵프로그래밍\_22강_트랙바\obj\Debug\net6.0-windows\_22강_트랙바.AssemblyInfo.cs
+C:\C샵프로그래밍\_22강_트랙바\obj\Debug\net6.0-windows\_22강_트랙바.csproj.CoreCompileInputs.cache
+C:\C샵프로그래밍\_22강_트랙바\obj\Debug\net6.0-windows\_22강_트랙바.dll
+C:\C샵프로그래밍\_22강_트랙바\obj\Debug\net6.0-windows\refint\_22강_트랙바.dll
+C:\C샵프로그래밍\_22강_트랙바\obj\Debug\net6.0-windows\_22강_트랙바.pdb
+C:\C샵프로그래밍\_22강_트랙바\obj\Debug\net6.0-windows\_22강_트랙바.genruntimeconfig.cache
+C:\C샵프로그래밍\_22강_트랙바\obj\Debug\net6.0-windows\ref\_22강_트랙바.dll
